@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringBootRbacApplication<spring-boot-rbac>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.dtech.restservices.SpringBootRbacApplication",
+            "projectName": "spring-boot-rbac",
+            "args": ""
+        }
+    ]
+}
